@@ -45,9 +45,13 @@ img {
   flex-direction: column;
   align-items: center;
   margin: 20px;
+  width: 200px;
+  text-align: center;
 }
 
 .text {
+  flex-wrap: wrap;
+  wrap
   text-align: center;
 }
 
